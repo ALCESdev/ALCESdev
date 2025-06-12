@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/-Entity%20Framework-68217A?style=flat-square&logo=.net&logoColor=white" />
 
   <!-- Bases de datos -->
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/-Transact%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/-PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
 
