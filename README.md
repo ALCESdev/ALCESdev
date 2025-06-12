@@ -58,7 +58,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alcesdev&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alcesdev&show_icons=true&theme=dracula" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcesdev&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcesdev&layout=compact&theme=dracula" />
 </p>
