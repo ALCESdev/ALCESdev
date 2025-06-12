@@ -11,12 +11,6 @@
   <a href="https://www.linkedin.com/in/alejandroalces/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:tuemail@dominio.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/TU_USUARIO">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
 </p>
 
 
