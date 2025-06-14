@@ -4,7 +4,6 @@
 
 <p>
 💻 Desarrollador Full Stack especializado en .NET<br>
-🎯 Apasionado por la arquitectura limpia, el desarrollo backend y la automatización de procesos.
 </p>
 
 <p>
